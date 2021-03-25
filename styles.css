@@ -1,0 +1,62 @@
+#header, .content-wrapper {
+  max-width: 1203px;
+  margin: 0 auto;
+}
+
+#zozo{
+  text-align: center;
+  color: rgba(211, 45, 45, 0.856);
+}
+
+.iye{
+  text-align: center;
+  color: salmon;
+}
+
+.jay{
+  text-align: center;
+}
+
+h1 {
+  font-size: 20px;
+  font-family: 'Playfair Display', serif;
+  
+}
+
+body, p, h2, h3 {
+  font-size: 15px;
+  font-family: "Helvetica Neue","Arial","sans-serif";
+font-weight: 400;
+font-style: normal;
+line-height: 1.6em;
+letter-spacing: 1px;
+color: #424242;
+
+}
+body, p, h1, h2, h3, img {
+  background-color: skyblue;
+}
+
+
+p {
+  margin: 25px 50px 75px 100px;
+}
+
+div {
+  padding: 25px 50px 75px 100px;
+}
+
+
+
+  img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+footer {
+  text-align: center;
+}
+
+
